@@ -2,7 +2,7 @@ package no.hvl.dat102;
 
 import java.util.Iterator;
 import java.util.NoSuchElementException;
-
+// K = Key og V = Value
 public class HashOrdbok<K, V> implements OrdbokInterface<K, V> {
 
 	private int antallElement;
